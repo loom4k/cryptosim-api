@@ -1,0 +1,10 @@
+# Directories
+
+/node_modules
+
+# Files
+.gitattributes
+package-lock.json
+
+# Private Data
+.env
